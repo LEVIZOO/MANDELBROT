@@ -20,11 +20,11 @@ int main() {
 
 }
         if (a * a + b * b > 4) {
-            cout << "Le nombre complexe (" << r << ", " << i << ") diverge";
+            cout << "Le nombre complexe (" << r << "+i"<< i << ") diverge";
 }
          else {
            
-        cout << "Le nombre complexe (" << r << ", " << i << ") ne diverge pas ";
+        cout << "Le nombre complexe (" << r << "+i "<< i << ") ne diverge pas ";
      
 
  }
