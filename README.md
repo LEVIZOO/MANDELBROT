@@ -1,1 +1,2 @@
 # MANDELBROT
+Ce code en C++ permet de déterminer si un nombre complexe donné diverge ou non sous l'itération d'une fonction spécifique. Il commence par demander à l'utilisateur d'entrer la partie réelle et la partie imaginaire d'un nombre complexe. Ensuite, il effectue 30 itérations d'une fonction itérée pour calculer de nouvelles valeurs de a et b. À la fin des itérations, il vérifie si la somme des carrés de a et b dépasse 4, ce qui indiquerait une divergence. Enfin, il affiche un message à l'utilisateur pour indiquer si le nombre complexe diverge ou non.
