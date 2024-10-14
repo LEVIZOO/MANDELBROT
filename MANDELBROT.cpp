@@ -15,7 +15,7 @@ int main() {
 
     for (n=0;n < 30 ;n++) {
         float a_new = a * a - b * b + r; 
-        b = 2 * a * b + i;              
+        float b_new  = 2 * a * b + i;              
         a = a_new;
 
 }
