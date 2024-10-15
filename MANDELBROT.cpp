@@ -17,6 +17,8 @@ int main() {
         float a_new = a * a - b * b + r; 
         float b_new  = 2 * a * b + i;              
         a = a_new;
+        b = b_new;
+        
 
 }
         if (a * a + b * b > 4) {
